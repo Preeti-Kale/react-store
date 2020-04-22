@@ -56,7 +56,7 @@ export default class Details extends Component {
                                             value.openModal(id);
                                         }
                                         }>
-                                           {inCart?"in cart" :"Add to cart"} 
+                                           {inCart?"inCart" :"Add to cart"} 
                                         </ButtonContainer>
                                     
                                 </div>
